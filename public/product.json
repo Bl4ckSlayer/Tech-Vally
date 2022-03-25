@@ -2,47 +2,43 @@
   {
     "id": "001",
     "category": "laptop",
-    "name": "dell-vistro 1",
-    "price": 420,
+    "name": "ASUS X509FB",
+    "price": 47500,
     "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+    "img": "https://unixnetworkbd.com/image/cache/catalog/unix_network_images/product/asus-x509fb-core-i3-8th-gen-15.6-fhd-laptop-with-mx110-2gb-graphics/asus-x509fb-core-i3-8th-gen-15.6-fhd-laptop-with-mx110-2gb-graphics-500x500.jpg",
     "quantity": 0
   },
   {
     "id": "002",
     "category": "laptop",
-    "name": "dell-vistro 2",
-    "price": 420,
+    "name": "Asus ROG Strix G G531GD",
+    "price": 97999,
     "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "quantity": 0
+    "img": "https://asusrog.com.bd/wp-content/uploads/2019/12/Webp.net-compress-image-17-5.jpg"
   },
   {
     "id": "003",
     "category": "laptop",
-    "name": "dell-vistro 3",
+    "name": "Amd ryzen 5 3600",
     "price": 420,
     "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "quantity": 0
+    "img": "https://5.imimg.com/data5/SELLER/Default/2020/8/AV/FQ/KL/111933757/amd-ryzen-5-3600-3rd-gen-desktop-processor-100-100000031box-500x500.jpg"
   },
   {
     "id": "004",
     "category": "laptop",
-    "name": "dell-vistro 4",
-    "price": 420,
+    "name": "Core i9 10900k",
+    "price": 520,
     "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "quantity": 0
+    "img": "https://www.binarylogic.com.bd/medium/images/product_image/intel_bx8070110900k_core_i9_10900k_processor_20m_1589327172_1558668.jpg"
   },
   {
     "id": "005",
     "category": "laptop",
-    "name": "dell-vistro 5",
-    "price": 420,
+    "name": "RODE NT2",
+    "price": 220,
     "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "quantity": 0
+    "img": "https://diamu.com.bd/wp-content/uploads/2020/10/RODE-NT2A-1-1.jpg"
   },
   {
     "id": "006",
@@ -50,52 +46,38 @@
     "name": "dell-vistro 6",
     "price": 420,
     "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "quantity": 0
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
   },
   {
     "id": "007",
     "category": "laptop",
-    "name": "dell-vistro 7",
-    "price": 420,
+    "name": "luise Headphone",
+    "price": 999,
     "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "quantity": 0
+    "img": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGVhZHBob25lc3xlbnwwfHwwfHw%3D&w=1000&q=80"
   },
   {
     "id": "008",
     "category": "laptop",
-    "name": "dell-vistro 8",
-    "price": 420,
+    "name": "Bits ear 5",
+    "price": 150,
     "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "quantity": 0
+    "img": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/6/164286_2022.jpg"
   },
   {
     "id": "009",
     "category": "laptop",
-    "name": "dell-vistro 9",
-    "price": 420,
+    "name": "Printer L110",
+    "price": 2100,
     "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "quantity": 0
+    "img": "https://www.startech.com.bd/image/cache/data/PRINTER/L110-500x500.jpg"
   },
   {
     "id": "010",
     "category": "laptop",
-    "name": "dell-vistro 10",
-    "price": 420,
+    "name": "Oneplus 7T",
+    "price": 1520,
     "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "quantity": 0
-  },
-  {
-    "id": "011",
-    "category": "laptop",
-    "name": "dell-vistro 15",
-    "price": 420,
-    "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "quantity": 0
+    "img": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-7t-1.jpg"
   }
 ]

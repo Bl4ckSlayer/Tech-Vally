@@ -4,7 +4,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Product from "../Product/Product";
 import Cart from "../Cart/Cart";
 import { AddLocal, getLocal } from "../utilities/Utilities";
-import RandomCart from "../RandomCart/RandomCart";
 
 const Shop = () => {
   const [products, setProducts] = useState([]);
@@ -59,10 +58,10 @@ const Shop = () => {
     window.location.reload();
   };
   return (
-    <div className="row">
-      <div className="col col-md-8 col-lg-8">
-        <h4 className="mb-3">Products</h4>
-        <div className="row row-cols-1 row-cols-md-3   ">
+    <div className="row mt-4 p-2  ">
+      <div className="col col-md-8 col-lg-8 mx-auto my-2">
+        <h1 className="fw-bolder text-danger text-center ">All Products</h1>
+        <div className="row row-cols-1 row-cols-md-3 mx-auto my-4 g-3   ">
           {products.map((product) => (
             <Product
               key={product.id}
@@ -73,14 +72,14 @@ const Shop = () => {
         </div>
       </div>
 
-      <div className="col-4  ">
+      <div className="col-4   ">
         <Cart
           carts={carts}
           DeleteItem={DeleteItem}
           randomProduct={randomProduct}
           emptyCart={emptyCart}
+          random={random}
         ></Cart>
-        <RandomCart random={random}></RandomCart>
       </div>
     </div>
   );
