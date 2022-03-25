@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# Tech vally Your desire tech products are here
+#live Website
+[Tech Vally](https://techvally-assignment8.netlify.app/)
+#Live Code
+[Codelink](https://github.com/Programming-Hero-Web-Course4/lucky-one-Bl4ckSlayer)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Live Code [Codelink](https://github.com/Programming-Hero-Web-Course4/lucky-one-Bl4ckSlayer)
-live Website [Tech Vally](https://techvally-assignment8.netlify.app/)
 
 ## Available Scripts
 
