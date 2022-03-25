@@ -4,7 +4,7 @@ const CartProduct = (props) => {
   const { name, price, img } = props.item;
   const { DeleteItem } = props;
   return (
-    <div>
+    <div className=" d-flex">
       <img src={img} width="100px" alt=""></img>
       <h6>price {name}</h6>
       <h6>price {price}</h6>
