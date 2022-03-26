@@ -1,11 +1,19 @@
 .product {
   background-color: rgba(59, 55, 59, 0.26);
   transition: 0.5s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .product:hover {
   transform: scale(1.05);
   transition: 0.5s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .bton {
   background-color: rgb(18, 125, 139);

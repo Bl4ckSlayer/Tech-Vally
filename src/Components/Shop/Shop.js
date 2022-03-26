@@ -62,7 +62,7 @@ const Shop = () => {
     window.location.reload();
   };
   return (
-    <div className="row mt-4 pp ">
+    <div className="row mt-4 ">
       <div className="col-lg-4 ">
         <Cart
           carts={carts}

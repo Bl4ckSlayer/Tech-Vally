@@ -1,11 +1,10 @@
-# Tech vally Your desire tech products are here
+# Tech vally Your desired tech products are here
 
-# live Website
+live Website:
 
-[Tech Vally](https://techvally-assignment8.netlify.app/)
+# [Tech Vally](https://techvally-assignment8.netlify.app/)
 
-# Live Code
-
+Live Code:
 [Codelink](https://github.com/Programming-Hero-Web-Course4/lucky-one-Bl4ckSlayer)
 
 ## Available Scripts

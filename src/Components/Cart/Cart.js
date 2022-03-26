@@ -7,7 +7,7 @@ import "./Cart.css";
 const Cart = (props) => {
   const { carts, DeleteItem, randomProduct, emptyCart, random } = props;
   const storedCart = getLocal();
-  console.log(emptyCart);
+  // console.log(emptyCart);
   return (
     <div className="cart text-center  sticky ">
       <h1>Carts</h1>
@@ -30,7 +30,7 @@ const Cart = (props) => {
         onClick={() => emptyCart()}
         className="btn btn-outline-danger  fw-bolder mb-2 mt-2 "
       >
-        CHOOSE AGAIN
+        DELETE ALL
       </button>
     </div>
   );

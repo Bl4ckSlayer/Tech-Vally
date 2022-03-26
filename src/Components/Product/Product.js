@@ -8,20 +8,20 @@ const Product = (props) => {
   const { AddCart } = props;
 
   return (
-    <div className="product mx-1 rounded  my-1  ">
+    <div className="card product mx-1 rounded  my-1  ">
       <img
         src={img}
         className="rounded mx-auto d-block m-2 img-fluid   "
         alt=""
       ></img>
-      <div className="card-body text-center">
-        <h5 className="">Product Name: {name}</h5>
-        <h5 className="">Price: ${price}</h5>
-
-        <button onClick={() => AddCart(props.product)} className="bton">
-          Add To Cart <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>
-        </button>
+      <div className="card-body text-center ">
+        <h5 className="card-title">Product Name: {name}</h5>
+        <h5 className="card-title">Price: ${price}</h5>
       </div>
+
+      <button onClick={() => AddCart(props.product)} className="bton p-2 mb-2">
+        Add To Cart <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>
+      </button>
     </div>
   );
 };
