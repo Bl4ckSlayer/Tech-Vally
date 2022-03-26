@@ -6,9 +6,10 @@ const RandomCart = (props) => {
     console.log(name);
     return (
       <div>
+        <h4>The Chosen One</h4>
         <img src={img} alt="" width="200px" />
-        <h5>{name}</h5>
-        <h5>Price: {price}</h5>
+        <h5>Name:{name}</h5>
+        <h5>Price: ${price}</h5>
       </div>
     );
   } else {

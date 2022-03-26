@@ -6,13 +6,13 @@ const CartProduct = (props) => {
   return (
     <div className="my-4 mx-auto ">
       <img src={img} width="100px" alt=""></img>
-      <h6>price {name}</h6>
-      <h6>price {price}</h6>
+      <h6>Product: {name}</h6>
+      <h6>price: ${price}</h6>
       <button
         onClick={() => DeleteItem(props.item)}
-        className="btn btn-success"
+        className="btn btn-outline-success fw-bolder "
       >
-        Delete
+        Remove
       </button>
     </div>
   );

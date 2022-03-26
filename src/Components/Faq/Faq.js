@@ -3,6 +3,8 @@ import React from "react";
 const Faq = () => {
   return (
     <div>
+      <h1 className="text-center">Question & Answer</h1>
+      
       <h1 className="text-danger">How React Works?</h1>
       <h6>
         Answer: ReactJS is an open-source, component-based front-end library

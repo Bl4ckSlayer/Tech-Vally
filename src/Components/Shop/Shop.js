@@ -15,6 +15,10 @@ const Shop = () => {
       .then((res) => res.json())
       .then((data) => setProducts(data));
   }, []);
+  useEffect(() => {
+    const storedCart = getLocal();
+    setCarts(storedCart);
+  }, []);
 
   const AddCart = (product) => {
     const newCart = getLocal();
@@ -58,10 +62,19 @@ const Shop = () => {
     window.location.reload();
   };
   return (
-    <div className="row mt-4 p-2  ">
-      <div className="col col-md-8 col-lg-8 mx-auto my-2">
+    <div className="row mt-4 pp ">
+      <div className="col-lg-4 ">
+        <Cart
+          carts={carts}
+          DeleteItem={DeleteItem}
+          randomProduct={randomProduct}
+          emptyCart={emptyCart}
+          random={random}
+        ></Cart>
+      </div>
+      <div className="col-md-8 col-lg-8 order-md-first   ">
         <h1 className="fw-bolder text-danger text-center ">All Products</h1>
-        <div className="row row-cols-1 row-cols-md-3 mx-auto my-4 g-3   ">
+        <div className="row row-cols-1 row-cols-md-4 justify-content-center rounded  mt-3 m-2   ">
           {products.map((product) => (
             <Product
               key={product.id}
@@ -70,16 +83,6 @@ const Shop = () => {
             ></Product>
           ))}
         </div>
-      </div>
-
-      <div className="col-4   ">
-        <Cart
-          carts={carts}
-          DeleteItem={DeleteItem}
-          randomProduct={randomProduct}
-          emptyCart={emptyCart}
-          random={random}
-        ></Cart>
       </div>
     </div>
   );

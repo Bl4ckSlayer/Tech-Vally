@@ -43,10 +43,10 @@
   {
     "id": "006",
     "category": "laptop",
-    "name": "dell-vistro 6",
-    "price": 420,
+    "name": "Samsung A53",
+    "price": 1320,
     "stock": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    "img": "https://d124ep1ou7ef1k.cloudfront.net/wp-content/uploads/2022/03/002_Galaxy_A73_5G_gray_back%E2%80%8B-1440x960.jpg"
   },
   {
     "id": "007",
