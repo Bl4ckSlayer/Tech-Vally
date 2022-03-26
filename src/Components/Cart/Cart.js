@@ -10,7 +10,7 @@ const Cart = (props) => {
   // console.log(emptyCart);
   return (
     <div className="cart text-center  sticky ">
-      <h1>Carts</h1>
+      <h1>Your Cart</h1>
       {carts.map((item) => (
         <CartProduct
           key={item.id}

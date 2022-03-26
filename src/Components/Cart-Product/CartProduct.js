@@ -1,3 +1,5 @@
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faTrash } from "@fortawesome/free-solid-svg-icons";
 import React from "react";
 
 const CartProduct = (props) => {
@@ -12,7 +14,7 @@ const CartProduct = (props) => {
         onClick={() => DeleteItem(props.item)}
         className="btn btn-outline-success fw-bolder "
       >
-        Remove
+        <FontAwesomeIcon icon={faTrash}></FontAwesomeIcon>
       </button>
     </div>
   );

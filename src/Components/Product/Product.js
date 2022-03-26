@@ -11,7 +11,7 @@ const Product = (props) => {
     <div className="card product mx-1 rounded  my-1  ">
       <img
         src={img}
-        className="rounded mx-auto d-block m-2 img-fluid   "
+        className="rounded mx-auto d-block m-2 img-fluid"
         alt=""
       ></img>
       <div className="card-body text-center ">
