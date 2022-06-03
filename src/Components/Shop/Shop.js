@@ -46,7 +46,7 @@ const Shop = () => {
     localStorage.setItem("cart", JSON.stringify(newCart));
     setCarts(newCart);
   };
-
+// asdasd
   const randomProduct = (localCart) => {
     const NewItem = localCart[Math.floor(Math.random() * localCart.length)];
 
